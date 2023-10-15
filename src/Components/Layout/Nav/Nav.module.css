@@ -1,4 +1,4 @@
-.container_nav{
+.container_nav {
   padding-top: 2rem;
   display: flex;
   justify-content: space-between;
@@ -6,13 +6,13 @@
   padding: 2rem;
 }
 
-.container_nav h3{
+.container_nav h3 {
   font-size: 2rem;
   margin-right: 18rem;
-  padding: 10px 15px;
+  padding: 10px 20px;
   background-color: #ffffff;
   border-radius: 1rem;
-  color: rgb(0, 0, 0); 
+  color: rgb(0, 0, 0);
 }
 
 .links a {
@@ -22,12 +22,12 @@
   color: #ffffff;
 }
 
-.links a:hover{
- color: #72ff20;
- letter-spacing: 2px;
+.links a:hover {
+  color: #72ff20;
+  letter-spacing: 2px;
 }
 
-.btn_post{
+.btn_post {
   border-radius: 1rem;
   padding: 10px 5px;
   padding-left: 35px;
