@@ -3,3 +3,6 @@
   margin: 0;
   background-color: black;
 }
+h1{
+  text-transform: uppercase;
+}
